@@ -30,6 +30,7 @@ metaDescription: "Writing"
 - [How to take smart notes with Emacs org mode](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/)
 - **SHOULD READ** [http://proses.id/journaling/](http://proses.id/journaling/)
 - [Hemingwayapp: Make your writing clear and bold](http://www.hemingwayapp.com/)
+- [Find the best jobs in Pakistan](http://www.jobhubb.pk/)
 - [Panduan one-pagi memo yang diajarkan Procter & Gamble](https://twitter.com/sillysampi/status/1249150624027066368?s=20)
 - [Nerdy Blogging: Publishing Tools and Workflow for Developers](https://medium.com/@theresiatanzil/nerdy-blogging-publishing-tools-and-workflow-for-developers-89b8e3f9dde7)
 
